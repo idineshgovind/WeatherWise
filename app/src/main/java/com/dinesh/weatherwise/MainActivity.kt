@@ -31,7 +31,7 @@ import java.util.*
 class MainActivity : AppCompatActivity() {
     private lateinit var fusedLocationProviderClient: FusedLocationProviderClient
 
-    val API: String = "233e338012e4b7d58a75a60108eaf568"
+    val API: String = "<API_KEY>"
     var LAT : String = ""
     var LON : String = ""
 
